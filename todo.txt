@@ -1,0 +1,3 @@
+TODO Topics:
+
+- Scope of variables: LEGB Rule -> see 'Methods & Functions' section of Udemy course
